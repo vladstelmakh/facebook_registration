@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+playwright
+fake-useragent
+scikit-image
+pydantic
+names
